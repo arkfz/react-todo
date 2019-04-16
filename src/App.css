@@ -3,8 +3,7 @@
 }
 
 h1 {
-  /* color: #daad86; */
-  color: red;
+  color: #daad86;
   font-weight: 800;
   font-size: 2rem;
   margin-bottom: 40px;
@@ -70,21 +69,15 @@ li {
   margin: 5px 0;
   width: 299px;
   height: 36px;
-  /* background-color: #daad86; */
-  background: linear-gradient(to right, red, orange, yellow, lime, blue, purple, fuchsia);
+  background-color: #daad86;
   font-weight: bold;
   color: white;
   line-height: 36px;
 }
 
 li:hover {
-  /* background-color: white; */
-  /* color: #daad86; */
-  /* border: 1px solid #daad86; */
+  background-color: white;
+  color: #daad86;
+  border: 1px solid #daad86;
   cursor: pointer;
-
-  border: 1px solid white;
-  color: white;
-  font-weight: bold;
-  background: linear-gradient(to left, red, orange, yellow, lime, blue, purple, fuchsia);
 }
